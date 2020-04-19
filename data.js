@@ -10,7 +10,7 @@ module.exports =
 	FirstData:
 		{
 		firstinput:"2",
-		secondinput:"3",
+		secondinput:"4",
 		result:"5"		
 		
 	},
